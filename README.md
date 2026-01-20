@@ -6,21 +6,22 @@ Welcome to my GitHub! I’m learning and growing in the field of data analysis. 
 
 ## 🌱 Skills I’m Learning & Using
 
-* **Excel**
+* 📊 **Excel**
 
   * Formulas and functions
   * Pivot tables
   * Basic dashboards
 
-* **Python**
+* 🐍**Python** 
 
   * Data analysis with Pandas
   * Cleaning and organizing data
 
-* **Data Visualization**
+* 📉**Data Visualization**📈
+* Tableu
+* Power BI
 
-  * Tableau
-  * Power BI
+  🗄️ SQL
 
 ---
 
