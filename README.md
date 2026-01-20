@@ -42,12 +42,6 @@ Welcome to my GitHub! I’m learning and growing in the field of data analysis. 
 
 ---
 
-## 🤝 Let’s Connect
-
-I’m always learning and open to feedback. Feel free to explore my projects, share suggestions, or connect with me!
-
----
-
 ✨ Thanks for visiting my GitHub profile!
 
 
