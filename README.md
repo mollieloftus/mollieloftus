@@ -21,7 +21,7 @@ Welcome to my GitHub! I’m learning and growing in the field of data analysis. 
 * Tableu
 * Power BI
 
-  🗄️ SQL
+  🗄️ **SQL**
 
 ---
 
